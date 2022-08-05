@@ -1,7 +1,7 @@
 import os
 
-VAGAS_PARA_CARRO = 2
-VAGAS_PARA_MOTO = 2
+VAGAS_PARA_CARRO = 25
+VAGAS_PARA_MOTO = 25
 
 class Veiculo:
     def __init__(self, placa):
