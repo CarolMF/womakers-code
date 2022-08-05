@@ -214,7 +214,7 @@ while programa_continua:
     escolha = menu()
     filtrar_opcao(escolha)
     print("\n----------------------------------------------------------------------\n")
-    input("Pressione qualquer tecla para continuar.")
+    input("Pressione Enter para continuar.")
        
 print("\n----------------------------------------------------------------------\n")
 print("Encerrando controle de estacionamento. \n")
